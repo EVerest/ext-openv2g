@@ -1,3 +1,12 @@
+DEPRECATED
+
+This fork will be kept to allow older versions to build and should not be used anymore. 
+It is no longer maintained.
+Use libsbv2g instead:
+
+https://github.com/EVerest/libcbv2g
+
+
 -------------------------------------------------------------------------
 OpenV2G - an open source project implementing the basic functionality of the ISO IEC 15118 vehicle to grid (V2G) communication interface 
 Version 0.9.5, released March 11, 2022
